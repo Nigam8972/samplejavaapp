@@ -7,3 +7,4 @@ trial-1-3
 affvvzdvdv
 demo trial 1 status :succeded in trigerring jenkins scm polling from git webhook
 demo trial 2 job package status :succeded in trigerring jenkins scm polling from git webhook
+Automated pipeline Setup :compile:code-review:unit-testing:code-coverage:package
